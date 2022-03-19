@@ -2,13 +2,16 @@
 ANSI colour terminal package for Go
 
 
-# USAGE-
+## USAGE-
 
 
-
+```bash
 package main
 import (
     c "github.com/TreyBastian/colourize"
     "fmt"
 )
-func main() {fmt.Println(c.Colourize("Hello World!", c.Green, c.Whitebg, c.Bold))}
+func main() {
+fmt.Println(c.Colourize("Hello World!", c.Green, c.Whitebg, c.Bold))
+}
+```
