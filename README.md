@@ -2,7 +2,9 @@
 ANSI colour terminal package for Go
 
 ## Installation
-
+```bash
+https://github.com/tusharxoxoxo/ANSI-colour-terminal-
+```
 
 ## USAGE-
 
