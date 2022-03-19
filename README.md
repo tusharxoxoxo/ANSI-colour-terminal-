@@ -2,7 +2,10 @@
 ANSI colour terminal package for Go
 
 
-# USAGE
+# USAGE-
+
+
+
 package main
 import (
     c "github.com/TreyBastian/colourize"
